@@ -1,0 +1,12 @@
+{
+  "name": "casca",
+  "version": "0.0.1",
+  "main": "casca.js",
+  "scripts": {
+    "start": "node casca.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sören Lembke | Prignitz-Compi Computer GmbH",
+  "license": "MIT",
+  "description": ""
+}
